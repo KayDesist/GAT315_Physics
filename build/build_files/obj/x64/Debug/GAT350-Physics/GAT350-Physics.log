@@ -1,8 +1,19 @@
-﻿  main.c
+﻿  body.cpp
+  grav.cpp
+  gui.cpp
+  main.cpp
+  PolarScene.cpp
+C:\Users\Kay\source\repos\GAT350-Physics\src\PolarScene.cpp(26,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kay\source\repos\GAT350-Physics\src\PolarScene.cpp(78,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   scene.cpp
   scene_camera.cpp
+  spring.cpp
+  spring_scene.cpp
   trigonometry_scene.cpp
-C:\Users\Kay\source\repos\GAT350-Physics\src\scene.h(3,10): error C1083: Cannot open include file: 'gui.h': No such file or directory
-  (compiling source file '../../src/scene.cpp')
-  
+C:\Users\Kay\source\repos\GAT350-Physics\src\trigonometry_scene.cpp(31,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kay\source\repos\GAT350-Physics\src\trigonometry_scene.cpp(42,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Kay\source\repos\GAT350-Physics\src\trigonometry_scene.cpp(55,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  vector_scene.cpp
+  world.cpp
   Generating Code...
+  GAT350-Physics.vcxproj -> C:\Users\Kay\source\repos\GAT350-Physics\bin\Debug\GAT350-Physics.exe

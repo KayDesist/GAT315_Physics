@@ -1,1 +1,12 @@
-C:\Users\Kay\source\repos\GAT350-Physics\src\main.c;C:\Users\Kay\source\repos\GAT350-Physics\build\build_files\obj\x64\Debug\GAT350-Physics\main.obj
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.cpp;C:\Users\Kay\source\repos\GAT350-Physics\build\build_files\obj\x64\Debug\GAT350-Physics\body.obj
+C:\Users\Kay\source\repos\GAT350-Physics\src\grav.cpp;C:\Users\Kay\source\repos\GAT350-Physics\build\build_files\obj\x64\Debug\GAT350-Physics\grav.obj
+C:\Users\Kay\source\repos\GAT350-Physics\src\gui.cpp;C:\Users\Kay\source\repos\GAT350-Physics\build\build_files\obj\x64\Debug\GAT350-Physics\gui.obj
+C:\Users\Kay\source\repos\GAT350-Physics\src\main.cpp;C:\Users\Kay\source\repos\GAT350-Physics\build\build_files\obj\x64\Debug\GAT350-Physics\main.obj
+C:\Users\Kay\source\repos\GAT350-Physics\src\PolarScene.cpp;C:\Users\Kay\source\repos\GAT350-Physics\build\build_files\obj\x64\Debug\GAT350-Physics\PolarScene.obj
+C:\Users\Kay\source\repos\GAT350-Physics\src\scene.cpp;C:\Users\Kay\source\repos\GAT350-Physics\build\build_files\obj\x64\Debug\GAT350-Physics\scene.obj
+C:\Users\Kay\source\repos\GAT350-Physics\src\scene_camera.cpp;C:\Users\Kay\source\repos\GAT350-Physics\build\build_files\obj\x64\Debug\GAT350-Physics\scene_camera.obj
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.cpp;C:\Users\Kay\source\repos\GAT350-Physics\build\build_files\obj\x64\Debug\GAT350-Physics\spring.obj
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring_scene.cpp;C:\Users\Kay\source\repos\GAT350-Physics\build\build_files\obj\x64\Debug\GAT350-Physics\spring_scene.obj
+C:\Users\Kay\source\repos\GAT350-Physics\src\trigonometry_scene.cpp;C:\Users\Kay\source\repos\GAT350-Physics\build\build_files\obj\x64\Debug\GAT350-Physics\trigonometry_scene.obj
+C:\Users\Kay\source\repos\GAT350-Physics\src\vector_scene.cpp;C:\Users\Kay\source\repos\GAT350-Physics\build\build_files\obj\x64\Debug\GAT350-Physics\vector_scene.obj
+C:\Users\Kay\source\repos\GAT350-Physics\src\world.cpp;C:\Users\Kay\source\repos\GAT350-Physics\build\build_files\obj\x64\Debug\GAT350-Physics\world.obj

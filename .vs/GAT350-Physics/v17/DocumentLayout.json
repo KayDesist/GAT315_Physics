@@ -3,32 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene_camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\scene_camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene_camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\scene_camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\build\\build_files\\scene_camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:build\\build_files\\scene_camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\world.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\world.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\build\\build_files\\trigonometry_scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:build\\build_files\\trigonometry_scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\build\\build_files\\scene_camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:build\\build_files\\scene_camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\vector_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\vector_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\build\\build_files\\trigonometry_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:build\\build_files\\trigonometry_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\vector_scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\vector_scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\spring_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\spring_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\spring_scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\spring_scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\spring.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\spring.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\spring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\spring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\mathUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\mathUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\gui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\gui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\gui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\gui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\grav.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\grav.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\grav.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\grav.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\body.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\body.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\trigonometry_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\trigonometry_scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\trigonometry_scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\trigonometry_scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\PolarScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\PolarScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\Polar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\Polar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\PolarScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\PolarScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\integrator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B45B82-9582-4F88-7E16-C0AE6A832BED}|build\\build_files\\GAT350-Physics.vcxproj|solutionrelative:src\\integrator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,93 +146,340 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "scene_camera.h",
-              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\build\\build_files\\scene_camera.h",
-              "RelativeDocumentMoniker": "build\\build_files\\scene_camera.h",
-              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\build\\build_files\\scene_camera.h",
-              "RelativeToolTip": "build\\build_files\\scene_camera.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-01T17:42:54.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "scene_camera.cpp",
-              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\build\\build_files\\scene_camera.cpp",
-              "RelativeDocumentMoniker": "build\\build_files\\scene_camera.cpp",
-              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\build\\build_files\\scene_camera.cpp",
-              "RelativeToolTip": "build\\build_files\\scene_camera.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-01T17:42:35.285Z",
+              "Title": "world.h",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\world.h",
+              "RelativeDocumentMoniker": "src\\world.h",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\world.h",
+              "RelativeToolTip": "src\\world.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T00:02:47.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "trigonometry_scene.cpp",
-              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\build\\build_files\\trigonometry_scene.cpp",
-              "RelativeDocumentMoniker": "build\\build_files\\trigonometry_scene.cpp",
-              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\build\\build_files\\trigonometry_scene.cpp",
-              "RelativeToolTip": "build\\build_files\\trigonometry_scene.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-01T17:42:16.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "trigonometry_scene.h",
-              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\build\\build_files\\trigonometry_scene.h",
-              "RelativeDocumentMoniker": "build\\build_files\\trigonometry_scene.h",
-              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\build\\build_files\\trigonometry_scene.h",
-              "RelativeToolTip": "build\\build_files\\trigonometry_scene.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-01T17:41:56.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "scene.h",
               "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene.h",
               "RelativeDocumentMoniker": "src\\scene.h",
               "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene.h",
               "RelativeToolTip": "src\\scene.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-01T17:40:05.741Z",
+              "WhenOpened": "2025-05-27T23:59:51.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scene_camera.h",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene_camera.h",
+              "RelativeDocumentMoniker": "src\\scene_camera.h",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene_camera.h",
+              "RelativeToolTip": "src\\scene_camera.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T00:00:30.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scene_camera.cpp",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene_camera.cpp",
+              "RelativeDocumentMoniker": "src\\scene_camera.cpp",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene_camera.cpp",
+              "RelativeToolTip": "src\\scene_camera.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T00:00:33.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "world.cpp",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\world.cpp",
+              "RelativeDocumentMoniker": "src\\world.cpp",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\world.cpp",
+              "RelativeToolTip": "src\\world.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T00:02:38.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "scene.cpp",
-              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene.cpp",
-              "RelativeDocumentMoniker": "src\\scene.cpp",
-              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene.cpp",
-              "RelativeToolTip": "src\\scene.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-01T17:40:04.488Z",
+              "Title": "vector_scene.h",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\vector_scene.h",
+              "RelativeDocumentMoniker": "src\\vector_scene.h",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\vector_scene.h",
+              "RelativeToolTip": "src\\vector_scene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T00:02:29.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\main.c",
-              "RelativeDocumentMoniker": "src\\main.c",
-              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\main.c",
-              "RelativeToolTip": "src\\main.c",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-01T17:12:21.894Z",
+              "Title": "vector_scene.cpp",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\vector_scene.cpp",
+              "RelativeDocumentMoniker": "src\\vector_scene.cpp",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\vector_scene.cpp",
+              "RelativeToolTip": "src\\vector_scene.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T00:02:08.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "spring_scene.h",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\spring_scene.h",
+              "RelativeDocumentMoniker": "src\\spring_scene.h",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\spring_scene.h",
+              "RelativeToolTip": "src\\spring_scene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T00:01:51.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "spring_scene.cpp",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\spring_scene.cpp",
+              "RelativeDocumentMoniker": "src\\spring_scene.cpp",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\spring_scene.cpp",
+              "RelativeToolTip": "src\\spring_scene.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T00:01:33.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "spring.h",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\spring.h",
+              "RelativeDocumentMoniker": "src\\spring.h",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\spring.h",
+              "RelativeToolTip": "src\\spring.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T00:01:20.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "spring.cpp",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\spring.cpp",
+              "RelativeDocumentMoniker": "src\\spring.cpp",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\spring.cpp",
+              "RelativeToolTip": "src\\spring.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T00:01:10.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "scene.cpp",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene.cpp",
+              "RelativeDocumentMoniker": "src\\scene.cpp",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\scene.cpp",
+              "RelativeToolTip": "src\\scene.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T23:59:34.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "mathUtils.h",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\mathUtils.h",
+              "RelativeDocumentMoniker": "src\\mathUtils.h",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\mathUtils.h",
+              "RelativeToolTip": "src\\mathUtils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T23:57:25.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\main.cpp",
+              "RelativeToolTip": "src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T23:56:53.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "gui.h",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\gui.h",
+              "RelativeDocumentMoniker": "src\\gui.h",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\gui.h",
+              "RelativeToolTip": "src\\gui.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T23:56:38.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "gui.cpp",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\gui.cpp",
+              "RelativeDocumentMoniker": "src\\gui.cpp",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\gui.cpp",
+              "RelativeToolTip": "src\\gui.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T23:56:20.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "grav.h",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\grav.h",
+              "RelativeDocumentMoniker": "src\\grav.h",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\grav.h",
+              "RelativeToolTip": "src\\grav.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T23:56:10.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "grav.cpp",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\grav.cpp",
+              "RelativeDocumentMoniker": "src\\grav.cpp",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\grav.cpp",
+              "RelativeToolTip": "src\\grav.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T23:55:57.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "body.h",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\body.h",
+              "RelativeDocumentMoniker": "src\\body.h",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\body.h",
+              "RelativeToolTip": "src\\body.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T23:55:45.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "body.cpp",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\body.cpp",
+              "RelativeDocumentMoniker": "src\\body.cpp",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\body.cpp",
+              "RelativeToolTip": "src\\body.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T23:55:20.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "trigonometry_scene.h",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\trigonometry_scene.h",
+              "RelativeDocumentMoniker": "src\\trigonometry_scene.h",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\trigonometry_scene.h",
+              "RelativeToolTip": "src\\trigonometry_scene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T23:55:08.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "trigonometry_scene.cpp",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\trigonometry_scene.cpp",
+              "RelativeDocumentMoniker": "src\\trigonometry_scene.cpp",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\trigonometry_scene.cpp",
+              "RelativeToolTip": "src\\trigonometry_scene.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T23:54:38.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PolarScene.h",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\PolarScene.h",
+              "RelativeDocumentMoniker": "src\\PolarScene.h",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\PolarScene.h",
+              "RelativeToolTip": "src\\PolarScene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T23:54:20.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Polar.h",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\Polar.h",
+              "RelativeDocumentMoniker": "src\\Polar.h",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\Polar.h",
+              "RelativeToolTip": "src\\Polar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T23:54:06.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PolarScene.cpp",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\PolarScene.cpp",
+              "RelativeDocumentMoniker": "src\\PolarScene.cpp",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\PolarScene.cpp",
+              "RelativeToolTip": "src\\PolarScene.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T23:53:55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "integrator.h",
+              "DocumentMoniker": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\integrator.h",
+              "RelativeDocumentMoniker": "src\\integrator.h",
+              "ToolTip": "C:\\Users\\Kay\\source\\repos\\GAT350-Physics\\src\\integrator.h",
+              "RelativeToolTip": "src\\integrator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T23:53:37.365Z",
               "EditorCaption": ""
             }
           ]
