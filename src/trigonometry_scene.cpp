@@ -1,5 +1,5 @@
 #include "trigonometry_scene.h"
-#include <mathUtils.h>
+#include "raymath.h"
 
 void Trig_Scene::Initialize()
 {
