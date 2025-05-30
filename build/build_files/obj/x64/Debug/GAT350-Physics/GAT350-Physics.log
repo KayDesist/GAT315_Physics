@@ -1,19 +1,356 @@
 ﻿  body.cpp
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(10,53): error C2059: syntax error: '<'
+  (compiling source file '../../src/body.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,10): error C2270: 'extents': modifiers not allowed on nonmember functions
+  (compiling source file '../../src/body.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,35): error C2059: syntax error: '<'
+  (compiling source file '../../src/body.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(13,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/body.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(14,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/body.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/body.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/body.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\world.h(22,25): error C2027: use of undefined type 'Body'
+  (compiling source file '../../src/body.cpp')
+      C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(9,9):
+      see declaration of 'Body'
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\world.h(22,25): error C2061: syntax error: identifier 'Type'
+  (compiling source file '../../src/body.cpp')
+  
   grav.cpp
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(10,53): error C2059: syntax error: '<'
+  (compiling source file '../../src/grav.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,10): error C2270: 'extents': modifiers not allowed on nonmember functions
+  (compiling source file '../../src/grav.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,35): error C2059: syntax error: '<'
+  (compiling source file '../../src/grav.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(13,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/grav.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(14,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/grav.cpp')
+  
   gui.cpp
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(10,53): error C2059: syntax error: '<'
+  (compiling source file '../../src/gui.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,10): error C2270: 'extents': modifiers not allowed on nonmember functions
+  (compiling source file '../../src/gui.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,35): error C2059: syntax error: '<'
+  (compiling source file '../../src/gui.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(13,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/gui.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(14,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/gui.cpp')
+  
   main.cpp
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(10,53): error C2059: syntax error: '<'
+  (compiling source file '../../src/main.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,10): error C2270: 'extents': modifiers not allowed on nonmember functions
+  (compiling source file '../../src/main.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,35): error C2059: syntax error: '<'
+  (compiling source file '../../src/main.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(13,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/main.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(14,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/main.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/main.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/main.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/main.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/main.cpp')
+  
   PolarScene.cpp
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(10,53): error C2059: syntax error: '<'
+  (compiling source file '../../src/PolarScene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,10): error C2270: 'extents': modifiers not allowed on nonmember functions
+  (compiling source file '../../src/PolarScene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,35): error C2059: syntax error: '<'
+  (compiling source file '../../src/PolarScene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(13,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/PolarScene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(14,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/PolarScene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/PolarScene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/PolarScene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/PolarScene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/PolarScene.cpp')
+  
 C:\Users\Kay\source\repos\GAT350-Physics\src\PolarScene.cpp(26,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 C:\Users\Kay\source\repos\GAT350-Physics\src\PolarScene.cpp(78,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   scene.cpp
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(10,53): error C2059: syntax error: '<'
+  (compiling source file '../../src/scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,10): error C2270: 'extents': modifiers not allowed on nonmember functions
+  (compiling source file '../../src/scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,35): error C2059: syntax error: '<'
+  (compiling source file '../../src/scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(13,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(14,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/scene.cpp')
+  
   scene_camera.cpp
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(41,7): error C3646: 'GetAABB': unknown override specifier
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(41,14): error C2059: syntax error: '('
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(41,23): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\scene.h(25,17): error C2061: syntax error: identifier 'SceneCamera'
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\scene.h(26,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\scene.h(26,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\scene.h(26,27): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\scene.h(45,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\scene.h(45,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\scene.h(45,23): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\scene.h(25,40): error C2065: 'm_camera': undeclared identifier
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\scene.h(25,51): error C2065: 'camera': undeclared identifier
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(10,53): error C2059: syntax error: '<'
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,10): error C2270: 'extents': modifiers not allowed on nonmember functions
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,35): error C2059: syntax error: '<'
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(13,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/scene_camera.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(14,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/scene_camera.cpp')
+  
   spring.cpp
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(10,53): error C2059: syntax error: '<'
+  (compiling source file '../../src/spring.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,10): error C2270: 'extents': modifiers not allowed on nonmember functions
+  (compiling source file '../../src/spring.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,35): error C2059: syntax error: '<'
+  (compiling source file '../../src/spring.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(13,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/spring.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(14,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/spring.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/spring.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/spring.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\world.h(11,38): error C2760: syntax error: '>' was unexpected here; expected 'expression'
+  (compiling source file '../../src/spring.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\world.h(23,8): error C2143: syntax error: missing ';' before '*'
+  (compiling source file '../../src/spring.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\world.h(23,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/spring.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\world.h(23,90): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '../../src/spring.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\world.h(38,12): error C3646: 'm_spring': unknown override specifier
+  (compiling source file '../../src/spring.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\world.h(38,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/spring.cpp')
+  
   spring_scene.cpp
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(10,53): error C2059: syntax error: '<'
+  (compiling source file '../../src/spring_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,10): error C2270: 'extents': modifiers not allowed on nonmember functions
+  (compiling source file '../../src/spring_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,35): error C2059: syntax error: '<'
+  (compiling source file '../../src/spring_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(13,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/spring_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(14,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/spring_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/spring_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/spring_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/spring_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/spring_scene.cpp')
+  
   trigonometry_scene.cpp
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(10,53): error C2059: syntax error: '<'
+  (compiling source file '../../src/trigonometry_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,10): error C2270: 'extents': modifiers not allowed on nonmember functions
+  (compiling source file '../../src/trigonometry_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,35): error C2059: syntax error: '<'
+  (compiling source file '../../src/trigonometry_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(13,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/trigonometry_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(14,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/trigonometry_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/trigonometry_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/trigonometry_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/trigonometry_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/trigonometry_scene.cpp')
+  
 C:\Users\Kay\source\repos\GAT350-Physics\src\trigonometry_scene.cpp(31,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 C:\Users\Kay\source\repos\GAT350-Physics\src\trigonometry_scene.cpp(42,36): warning C4305: '+=': truncation from 'double' to 'float'
 C:\Users\Kay\source\repos\GAT350-Physics\src\trigonometry_scene.cpp(55,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   vector_scene.cpp
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(10,53): error C2059: syntax error: '<'
+  (compiling source file '../../src/vector_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,10): error C2270: 'extents': modifiers not allowed on nonmember functions
+  (compiling source file '../../src/vector_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,35): error C2059: syntax error: '<'
+  (compiling source file '../../src/vector_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(13,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/vector_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(14,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/vector_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/vector_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\body.h(36,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/vector_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../src/vector_scene.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\spring.h(29,23): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../src/vector_scene.cpp')
+  
   world.cpp
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(10,53): error C2059: syntax error: '<'
+  (compiling source file '../../src/world.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,10): error C2270: 'extents': modifiers not allowed on nonmember functions
+  (compiling source file '../../src/world.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(12,35): error C2059: syntax error: '<'
+  (compiling source file '../../src/world.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(13,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/world.cpp')
+  
+C:\Users\Kay\source\repos\GAT350-Physics\src\aabb.h(14,31): error C2059: syntax error: '<'
+  (compiling source file '../../src/world.cpp')
+  
   Generating Code...
-  GAT350-Physics.vcxproj -> C:\Users\Kay\source\repos\GAT350-Physics\bin\Debug\GAT350-Physics.exe
