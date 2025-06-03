@@ -21,6 +21,7 @@ void SpringScene::Initialize()
 void SpringScene::Update()
 {
 	float dt = GetFrameTime();
+	GUI::Update();
 
 	if (IsKeyPressed(KEY_SPACE)) World::simulate = !World::simulate;
 
@@ -37,7 +38,7 @@ void SpringScene::Update()
 			body->gravityScale = GUI::gravityScaleValue;
 			body->damping = GUI::dampingValue;
 
-			body->ApplyForce(randomOnUnitCircle() * 32, Body::ForceMode::Velocity);
+			body->ApplyForce(randomOnUnitCircle() * 5, Body::ForceMode::Velocity);
 
 		}
 
@@ -75,10 +76,13 @@ void SpringScene::Update()
 			}
 		}
 
+
+
 	}
 
 
 	//apply collision
+
 	for (auto body : m_world->GetBodies())
 	{
 		if (body->position.y < -5)
@@ -97,7 +101,10 @@ void SpringScene::Update()
 
 	}
 
-	GUI::Update();
+	if (GUI::resetPressed)
+	{
+		m_world->DestroyAll();
+	}
 }
 
 void SpringScene::FixedUpdated()

@@ -1,5 +1,7 @@
 #include "scene.h"
-#include "rlgl.h" 
+#include "rlgl.h"
+#include "world.h"
+
 
 Scene::Scene(const std::string& title, int width, int height, const Color& background) :
 	m_width{ width },
@@ -36,14 +38,18 @@ void Scene::Update()
 
 		if ((aabb.min().x) < worldAABB.min().x)
 		{
-			body->position.x;
+			float overlap = (worldAABB.min().x - aabb.min().x);
+			body->position.x += 2 * overlap;
+			body->velocity.x *= -body->restitution;
 		}
 		else if (aabb.max().x > worldAABB.max().x)
 		{
-			body->position.x;//<update x>
+			float overlap = (worldAABB.max().x - aabb.max().x);
+			body->position.x += 2 * overlap;
+			body->velocity.x *= -body->restitution;
 		}
 
-		
+
 	}
 }
 

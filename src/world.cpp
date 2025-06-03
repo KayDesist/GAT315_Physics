@@ -44,6 +44,7 @@ void World::Step(float timestep)
 {
     if (!simulate) return;
 
+
     if (gravitation > 0) Grav::ApplyGravitation(m_bodies, gravitation);
 
     for (auto spring : m_spring)
@@ -57,10 +58,14 @@ void World::Step(float timestep)
         body->ClearForce();
     }
 
-    m_contacts.clear();
-    Collision::CreateContacts(m_bodies, m_contacts);
-    Collision::SeparateContacts(m_contacts);
-    Collision::ResolveContacts(m_contacts);
+    for (int i = 0; i < 10; i++)
+    {
+        Collision::CreateContacts(m_bodies, m_contacts);
+        Collision::SeparateContacts(m_contacts);
+        Collision::ResolveContacts(m_contacts);
+        m_contacts.clear();
+
+    }
 }
 
 void World::Draw(const Scene& scene)
@@ -82,4 +87,11 @@ void World::DestroyAll()
     {
         delete body;
     }
+    m_bodies.clear();
+    for (auto spring : m_spring)
+    {
+        delete spring;
+    }
+    m_spring.clear();
+
 }

@@ -1,6 +1,6 @@
 #include "body.h"
 #include "raymath.h"
-#include <integrator.h>
+#include <Integrator.h>
 #include "world.h"
 
 void Body::Step(float dt)

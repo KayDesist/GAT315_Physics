@@ -2,6 +2,7 @@
 #include "raylib.h"
 #include <scene.h>
 #include "aabb.h"
+
 struct Body {
 public:
 	enum class Type

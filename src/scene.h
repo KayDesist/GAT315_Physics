@@ -2,8 +2,7 @@
 #include "raylib.h"
 #include "scene_camera.h"
 #include <string> 
-#include "aabb.h" 
-#include "world.h"
+
 
 class Scene
 {

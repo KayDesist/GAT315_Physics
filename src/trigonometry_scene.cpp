@@ -1,4 +1,4 @@
-#include "trigonometry_scene.h"
+#include "Trigonometry_Scene.h"
 #include "raymath.h"
 
 void Trig_Scene::Initialize()
